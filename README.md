@@ -11,11 +11,11 @@
 ### 6. Chamadas Recursivas para os Nós Filhos: A função chama a si mesma recursivamente para desenhar os nós filhos, passando o filho esquerdo como argumento para a primeira chamada e o filho direito para a segunda chamada. Isso permite percorrer a árvore em profundidade, desenhando todos os nós. 
 ### 7. Retorno: Após desenhar todos os nós e suas conexões, a função retorna.
 
-## :hammer_and_wrench: Ferramentas utilizadas:
-
 <br>
 <img scr="./assents/evidencia.png" width=600> 
 <br>
+
+## :hammer_and_wrench: Ferramentas utilizadas:
 
 * C++
 
